@@ -1,4 +1,3 @@
 firebase-admin
 pandas
 plotly
-ast
